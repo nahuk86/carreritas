@@ -1,0 +1,7 @@
+D:\CUBOS\Carrera de caballos\Carrera de caballos\bin\Debug\Carrera de caballos.exe.config
+D:\CUBOS\Carrera de caballos\Carrera de caballos\bin\Debug\Carrera de caballos.exe
+D:\CUBOS\Carrera de caballos\Carrera de caballos\bin\Debug\Carrera de caballos.pdb
+D:\CUBOS\Carrera de caballos\Carrera de caballos\obj\Debug\Carrera de caballos.csproj.AssemblyReference.cache
+D:\CUBOS\Carrera de caballos\Carrera de caballos\obj\Debug\Carrera de caballos.csproj.CoreCompileInputs.cache
+D:\CUBOS\Carrera de caballos\Carrera de caballos\obj\Debug\Carrera de caballos.exe
+D:\CUBOS\Carrera de caballos\Carrera de caballos\obj\Debug\Carrera de caballos.pdb
